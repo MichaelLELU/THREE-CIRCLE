@@ -1,0 +1,16 @@
+* {
+  font-family: Akzidenz-Grotesk, sans-serif;
+  background-color: var(--main-color-1);
+}
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: var(--text-color);
+}
+
+var {
+  --main-color-1: #f5f4ee;
+  --text-color: #00003b;
+  --main-color-2: #fb728c;
+}
